@@ -1,4 +1,4 @@
-![Open Source at PixPark](https://github.com/pixpark/.github/blob/main/images/open-at-pixpark-wide.png)
+![Open Source at PixPark](https://github.com/pixpark/.github/blob/main/images/open-at-pixpark.png)
 
 ## Hi there 👋
 
