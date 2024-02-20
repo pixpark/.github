@@ -1,4 +1,4 @@
-![](https://img.pixpark.net/cover.png)
+![Open Source at PixPark](https://github.com/pixpark/.github/blob/main/images/open-at-pixpark.png)
 
 ## Hi there 👋
 
@@ -10,5 +10,5 @@ It is committed to providing developers with open-source software and programmin
 1. Website: <a href="https://pixpark.net" target="_blank">https://pixpark.net</a>
 2. Wechat public account:
 <p align="center">
-    <img src="https://img.pixpark.net/pixpark-wechat.jpg" width="250px">
+    <img src="https://github.com/pixpark/.github/blob/main/images/wechat-pixpark.jpg" width="250px">
 </p>
