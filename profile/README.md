@@ -1,12 +1,14 @@
+![](https://img.pixpark.net/cover.png)
+
 ## Hi there 👋
 
-<!--
+PixPark is an organization focused on audio and video programming development. 
 
-**Here are some ideas to get you started:**
+It is committed to providing developers with open-source software and programming knowledge related to audio and video development.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Find US
+1. Website: <a href="https://pixpark.net" target="_blank">https://pixpark.net</a>
+2. Wechat public account:
+<p align="center">
+    <img src="https://img.pixpark.net/pixpark-wechat.jpg" width="250px">
+</p>
