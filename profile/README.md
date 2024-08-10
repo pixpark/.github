@@ -11,3 +11,5 @@ Core Team Members: [Jaaron Kot](https://github.com/jaaronkot)
 
 Mail To Us: [jaaronkot@gmail.com](mailto:jaaronkot@gmail.com)
 
+Twitter: [PixParkOSS](https://x.com/PixParkOSS)
+
