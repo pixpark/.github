@@ -9,7 +9,7 @@ It is committed to providing developers with open-source software and programmin
 ## Find US
 Core Team Members: [Jaaron Kot](https://github.com/jaaronkot)
 
-Mail To Us: [jaaronkot@gmail.com](mailto:jaaronkot@gmail.com)
+Mail To Us: [hello@pixpark.net](mailto:hello@pixpark.net)
 
 Twitter: [PixParkOSS](https://x.com/PixParkOSS)
 
